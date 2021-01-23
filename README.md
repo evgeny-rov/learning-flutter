@@ -1,6 +1,6 @@
 # learning_flutter
 
-This is a collection of flutter apps made by me for the purpose of learning flutter.
+A new Flutter project.
 
 ## Getting Started
 
