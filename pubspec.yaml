@@ -19,3 +19,12 @@ flutter:
   uses-material-design: true
   assets:
     - assets/
+
+  fonts:
+  - family: Pacifico
+    fonts:
+    - asset: assets/fonts/Pacifico-Regular.ttf
+
+  - family: Roboto Mono
+    fonts:
+    - asset: assets/fonts/roboto-mono-medium.ttf
